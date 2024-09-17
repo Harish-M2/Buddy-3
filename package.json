@@ -3,7 +3,7 @@
   "name": "buddy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<Harish-M2>.github.io/<Buddy-3>",
+  "homepage": "https://github.com/Harish-M2/Buddy-3.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
